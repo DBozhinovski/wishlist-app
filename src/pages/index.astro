@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import { List } from '../components/List.tsx';
+
+---
+
+<Base>
+	<h1 class="text-4xl font-black mb-3 mt-6 text-center">Darko's Wishlist</h1>
+	<h2 class="text-2xl font-light mb-12 text-center">Need ideas about what to get me?</h2>
+
+	<div class="flex-grow">
+		<div class="list">
+			<List client:only />			
+    </div>
+	</div>
+</Base>
