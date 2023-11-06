@@ -2,7 +2,6 @@ import { createResource } from 'solid-js';
 import { fetchWishilst } from '../data/baserow';
 import './List.css';
 
-
 export const List = () => {
   const [brData] = createResource(fetchWishilst);
 
