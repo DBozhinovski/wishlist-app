@@ -1,6 +1,6 @@
 # A wishlist app built with Astro, SolidJS, and Baserow
 
-This is the end result of a guide on how to build a wishlist app with Astro, SolidJS, and Baserow. You can find the tutorial [here](https://darko.io/posts/wishlist-app-with-astro-and-solid).
+This is the end result of a guide on how to build a wishlist app with [Astro](https://astro.build), [SolidJS](https://www.solidjs.com), and [Baserow](https://baserow.io). You can find the guide [here](https://darko.io/posts/wishlist-app-with-astro-and-solid).
 
 Live demo at: https://wishlist.darko.io
 
